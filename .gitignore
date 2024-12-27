@@ -1,0 +1,25 @@
+# Конфигурационные файлы
+.env
+
+# Кэш файлов Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+venv/
+.env/
+
+# Кэш mypy
+.mypy_cache/
+
+# Файлы и настройки IDE
+.vscode/
+.idea/
+*.iml
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
